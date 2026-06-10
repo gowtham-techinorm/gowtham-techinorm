@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=gowtham&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=software%20dev%20%E2%9A%A1%20web%20%2B%20mobile%20designer&descSize=18&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Gowtham&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=software%20dev%20%E2%9A%A1%20web%20%2B%20mobile%20designer&descSize=18&descAlignY=60&descAlign=50" width="100%" />
 
 <a href="https://github.com/gowtham-techinorm">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2400&pause=600&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=i+build+the+web.+i+design+the+app.;clean+UI+%E2%9C%A8+scalable+APIs+%E2%9A%99%EF%B8%8F+zero+chill;currently+turning+coffee+into+commits+%E2%98%95" alt="typing" />
